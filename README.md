@@ -6,13 +6,12 @@ I'm Sayan from India. Welcome to my GitHub profile!
 
 ### 🧑‍💻 About Me
 
-- 📜 I’m currently pursuing a B-Tech degree in CSBS (Computer Science and Business Systems).
-- 🌱 Currently learning: AI, ML, Web Development, Cybersecurity, and more.
+- 📜 I’m currently pursuing a B-Tech degree in CSE (Computer Science and Engineering).
+- 🌱 Currently learning: Data Analysis, Spring Boot and more.
 - 🔥 In my free time:
   - Read books 📚
   - Listen to podcasts and music 🎧
-  - Play PC games 🎮
-  - Watch movies and web series 📽️
+  - Watching football matches 
   - Explore the internet for strange and wonderful insights 💡
 
 ---
